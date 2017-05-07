@@ -2,7 +2,9 @@
 # Final Project Page
 
 > By: **Diyu Yang**(dyang37) & **Dongbo Wang**(dwang49)
+
 > Instructor: **Dan Block**
+
 > Section: Sp17 Wed. 2~5 PM
 
 ## Demo Video
