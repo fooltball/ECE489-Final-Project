@@ -99,7 +99,7 @@ Below are some additional links that are related to this final project.
 
 ## Acknowledgements
 
-This course has been extremely fascinating. The labs are interesting and we enjoyed our time working in the labs and especially for the final project. Keep adjusting and testing the robot and see its performance get better and better is truly satisfying. Here, we want to say thanks to
+This course has been extremely fascinating. The labs are interesting and we enjoyed our time working in the labs and especially for the final project. Keep adjusting and testing the robot and watching its performance get better and better is truly satisfying. Here, we want to say thanks to
 
 * Our instructor **Dan Block** for making these labs so interesting and knowledgeable.
 * Our TA **Won Dong Shin** for answering our problems and help us throughout the course.
