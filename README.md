@@ -21,7 +21,7 @@ In the following sections, we will explain to you about our final project, inclu
 
 There are totally 4 tasks we need to complete for the project, as shown below.
 
-![alt text](./t1.jpg) ![alt text](./t2.jpg) ![alt text](./t3.jpg) ![alt text](./t4.jpg)
+![Task 1](/t1.jpg) ![Task 2](/t2.jpg) ![Task 3](/t3.jpg) ![Task 4](/t4.jpg)
 
 1. **Peg in the Hole**
    Insert the peg attached to the robot’s end effector in a hole that has tight   clearances.
