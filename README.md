@@ -9,9 +9,7 @@
 
 Below is our final project demo video using a real egg.
 
-<iframe width="1280" height="720" 
-src="https://www.youtube.com/embed/_qOydY3yuFM" frameborder="0" allowfullscreen>
-</iframe>
+[![Video](http://img.youtube.com/vi/_qOydY3yuFM/0.jpg)](http://www.youtube.com/watch?v=_qOydY3yuFM "Demo Video With Real Egg")
 
 ## Project Details
 
@@ -83,7 +81,7 @@ Beside the theoretical knowledges, we also learned a lot of practical skills of 
 
 ## Group Member
 
-![alt text](dyang.JPG) ![alt text](dwang.JPG)
+![alt text](dyang.JPG "Diyu Yang") ![alt text](dwang.JPG "Dongbo Wang")
 
 Diyu Yang (left) and Dongbo Wang (right)
 
