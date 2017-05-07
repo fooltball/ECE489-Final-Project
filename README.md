@@ -21,7 +21,7 @@ In the following sections, we will explain to you about our final project, inclu
 
 There are totally 4 tasks we need to complete for the project, as shown below.
 
-![Task 1](/t1.jpg) ![Task 2](/t2.jpg) ![Task 3](/t3.jpg) ![Task 4](/t4.jpg)
+![Task 1](https://github.com/fooltball/ECE489FinalProject/t1.jpg) ![Task 2](https://github.com/fooltball/ECE489FinalProject/t2.jpg) ![Task 3](https://github.com/fooltball/ECE489FinalProject/t3.jpg) ![Task 4](https://github.com/fooltball/ECE489FinalProject/t4.jpg)
 
 1. **Peg in the Hole**
    Insert the peg attached to the robot’s end effector in a hole that has tight   clearances.
@@ -83,7 +83,7 @@ Beside the theoretical knowledges, we also learned a lot of practical skills of 
 
 ## Group Member
 
-![alt text](./dyang.jpg) ![alt text](./dwang.jpg)
+![alt text](https://github.com/fooltball/ECE489FinalProject/dyang.jpg) ![alt text](https://github.com/fooltball/ECE489FinalProject/dwang.jpg)
 
 Diyu Yang (left) and Dongbo Wang (right)
 
