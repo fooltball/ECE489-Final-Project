@@ -24,12 +24,19 @@ There are totally 4 tasks we need to complete for the project, as shown below.
 ![Task 1](t1.JPG) ![Task 2](t2.JPG) ![Task 3](t3.JPG) ![Task 4](t4.JPG)
 
 1. **Peg in the Hole**
+
 Insert the peg attached to the robot’s end effector in a hole that has tight   clearances.
+
 2. **Avoid the Obstacle**
+
 The robot’s end-effector has to reach the desired goal position without colliding with the obstacle.
+
 3. **Zigzag Groove**
+
 The peg on the end-effector has to pass through the narrow zigzag groove. 
+
 4. **Egg Push**
+
 Push the egg without cracking it and touch the edge of the egg holder.
 
 ### General Strategy
